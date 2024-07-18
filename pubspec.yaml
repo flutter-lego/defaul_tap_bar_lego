@@ -1,7 +1,7 @@
 name: defaul_tap_bar_lego
-description: "lego is all you need"
+description: "Default tap bar lego"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/lego
+repository: https://github.com/flutter-lego/defaul_tap_bar_lego
 
 version: 1.0.0
 

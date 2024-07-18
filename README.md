@@ -2,7 +2,7 @@
 [![pub package](https://img.shields.io/pub/v/defaul_tap_bar_lego.svg)](https://pub.dartlang.org/packages/defaul_tap_bar_lego)
 
 # defaul_tap_bar_lego
-description here
+Default tap bar lego for lego project.
 
 ##  Installation
 1. open terminal in the lego project root directory, enter the following command for install cli.
@@ -15,6 +15,3 @@ lego create
 ```bash
 lego add defaul_tap_bar_lego
 ```
-
-## Usage
-Usage here
